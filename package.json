@@ -1,0 +1,16 @@
+{
+	"name":"com.robosen_core.custompackage",
+	"displayName":"Robosen Core",
+	"version":"0.0.2",
+	"description":"乐森公司的框架",
+	"author":{
+		"name":"yangyue"
+	},
+	"samples":[
+	{
+		"displayName":"CoreTest",
+		"description":"乐森公司的框架样例",
+		"path":"Simples~/CoreTest"
+	}
+	]
+}

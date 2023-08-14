@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[AddComponentMenu("Main")]
 public class Mian : MonoBehaviour
 {
     public static Mian Instance = null;
@@ -24,7 +25,7 @@ public class Mian : MonoBehaviour
     }
     public void Hello()
     {
-        Debug.Log("你好啊");
+        Debug.Log("你好骚年");
     }
     
 }
